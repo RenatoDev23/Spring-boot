@@ -1,0 +1,10 @@
+package com.primeiroprojeto.dio.springbootweb;
+
+public class Controller {
+	
+	public String mensagem() {
+		
+		return " Nosso primeiro projeto Spring Bott Web";
+	}
+
+}

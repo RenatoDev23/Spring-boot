@@ -1,0 +1,13 @@
+package com.projetocomspringbootejava.projetocomspringbootejava;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class ProjetocomspringbootejavaApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(ProjetocomspringbootejavaApplication.class, args);
+	}
+
+}

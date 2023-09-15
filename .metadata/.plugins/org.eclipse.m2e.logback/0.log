@@ -1,0 +1,82 @@
+2023-09-14 21:24:18,121 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-09-14 21:24:28,641 [Worker-4: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-site-plugin/3.12.1/maven-site-plugin-3.12.1.jar
+2023-09-14 21:24:28,823 [Worker-4: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-site-plugin/3.12.1/maven-site-plugin-3.12.1.jar
+2023-09-14 21:24:30,172 [Worker-4: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.primeiroprojeto.dio:springbootweb:0.0.1-SNAPSHOT @ C:\Users\Renato\Desktop\projeto com spring booot\springbootweb\springbootweb\pom.xml.
+2023-09-14 21:24:33,804 [Worker-1: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.primeiroprojeto.dio:springbootweb:0.0.1-SNAPSHOT @ C:\Users\Renato\Desktop\projeto com spring booot\springbootweb\springbootweb\pom.xml.
+2023-09-14 21:24:36,602 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-09-14 21:24:36,655 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-09-14 21:24:36,666 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Renato\Desktop\projeto com spring booot\springbootweb\springbootweb\src\test\resources
+2023-09-14 21:24:36,793 [Worker-13: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-09-14 21:24:37,962 [Worker-13: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.primeiroprojeto.dio:springbootweb:0.0.1-SNAPSHOT @ C:\Users\Renato\Desktop\projeto com spring booot\springbootweb\springbootweb\pom.xml.
+2023-09-14 21:24:39,382 [Worker-13: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springbootweb/src/main/java
+2023-09-14 21:24:39,383 [Worker-13: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springbootweb/src/main/resources
+2023-09-14 21:24:39,385 [Worker-13: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springbootweb/src/main/resources
+2023-09-14 21:24:39,389 [Worker-13: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springbootweb/src/test/java
+2023-09-14 21:24:39,390 [Worker-13: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springbootweb/src/test/resources
+2023-09-14 21:24:40,236 [Worker-13: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0,00 sec, refresh facades takes 2,00 sec, update config takes 0,00 sec 
+2023-09-14 21:24:40,768 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.primeiroprojeto.dio:springbootweb:0.0.1-SNAPSHOT @ C:\Users\Renato\Desktop\projeto com spring booot\springbootweb\springbootweb\pom.xml.
+2023-09-14 21:24:42,924 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-09-14 21:24:42,973 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-09-14 21:24:42,981 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Renato\Desktop\projeto com spring booot\springbootweb\springbootweb\src\test\resources
+2023-09-14 22:05:44,625 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.projetocomspringbootejava:projetocomspringbootejava:0.0.1-SNAPSHOT @ C:\Users\Renato\Desktop\projeto com spring booot\projetocomspringbootejava\pom.xml.
+2023-09-14 22:05:47,580 [Worker-10: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /projetocomspringbootejava/src/main/java
+2023-09-14 22:05:47,580 [Worker-10: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /projetocomspringbootejava/src/main/resources
+2023-09-14 22:05:47,597 [Worker-10: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /projetocomspringbootejava/src/main/resources
+2023-09-14 22:05:47,606 [Worker-10: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /projetocomspringbootejava/src/test/java
+2023-09-14 22:05:47,608 [Worker-10: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /projetocomspringbootejava/src/test/resources
+2023-09-14 22:05:51,787 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 11 sec
+2023-09-14 22:05:55,086 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-09-14 22:05:55,124 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-09-14 22:05:55,133 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Renato\Desktop\projeto com spring booot\projetocomspringbootejava\src\test\resources
+2023-09-14 22:08:49,794 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-09-14 22:15:13,773 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-09-14 22:15:13,818 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-09-14 22:15:13,835 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Renato\Desktop\projeto com spring booot\projetocomspringbootejava\src\test\resources
+2023-09-14 22:15:44,523 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-09-14 22:15:44,578 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-09-14 22:15:44,588 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Renato\Desktop\projeto com spring booot\projetocomspringbootejava\src\test\resources
+2023-09-14 22:17:55,997 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-09-14 22:17:56,014 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-09-14 22:17:56,021 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Renato\Desktop\projeto com spring booot\projetocomspringbootejava\src\test\resources
+2023-09-14 22:21:32,671 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-09-14 22:21:32,683 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-09-14 22:21:32,710 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Renato\Desktop\projeto com spring booot\projetocomspringbootejava\src\test\resources
+2023-09-14 22:31:17,125 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-09-14 22:31:17,139 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-09-14 22:31:17,146 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Renato\Desktop\projeto com spring booot\projetocomspringbootejava\src\test\resources
+2023-09-14 22:31:26,757 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-09-14 22:31:26,766 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-09-14 22:31:26,778 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Renato\Desktop\projeto com spring booot\projetocomspringbootejava\src\test\resources
+2023-09-14 22:31:44,421 [Worker-14: Launching ProjetocomspringbootejavaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-09-14 22:31:44,430 [Worker-14: Launching ProjetocomspringbootejavaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-09-14 22:31:44,439 [Worker-14: Launching ProjetocomspringbootejavaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Renato\Desktop\projeto com spring booot\projetocomspringbootejava\src\test\resources
+2023-09-14 22:37:23,947 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-09-14 22:37:23,965 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-09-14 22:37:23,999 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Renato\Desktop\projeto com spring booot\projetocomspringbootejava\src\test\resources
+2023-09-14 22:41:37,095 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-09-14 22:41:37,139 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-09-14 22:41:37,149 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Renato\Desktop\projeto com spring booot\projetocomspringbootejava\src\test\resources
+2023-09-14 22:43:05,867 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-09-14 22:43:05,875 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-09-14 22:43:05,881 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Renato\Desktop\projeto com spring booot\projetocomspringbootejava\src\test\resources
+2023-09-14 23:03:51,564 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-09-14 23:03:51,625 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-09-14 23:03:51,633 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Renato\Desktop\projeto com spring booot\projetocomspringbootejava\src\test\resources
+2023-09-14 23:07:33,973 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-09-14 23:07:33,994 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-09-14 23:07:34,024 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Renato\Desktop\projeto com spring booot\projetocomspringbootejava\src\test\resources
+2023-09-14 23:14:13,764 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-09-14 23:14:13,790 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-09-14 23:14:13,805 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Renato\Desktop\projeto com spring booot\projetocomspringbootejava\src\test\resources
+2023-09-14 23:24:17,693 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-09-14 23:24:17,765 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-09-14 23:24:17,773 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Renato\Desktop\projeto com spring booot\projetocomspringbootejava\src\test\resources
+2023-09-14 23:25:20,141 [Worker-16: Launching ProjetocomspringbootejavaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-09-14 23:25:20,156 [Worker-16: Launching ProjetocomspringbootejavaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-09-14 23:25:20,163 [Worker-16: Launching ProjetocomspringbootejavaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Renato\Desktop\projeto com spring booot\projetocomspringbootejava\src\test\resources
+2023-09-14 23:30:06,312 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-09-14 23:30:06,320 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-09-14 23:30:06,328 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Renato\Desktop\projeto com spring booot\projetocomspringbootejava\src\test\resources
+2023-09-14 23:31:57,685 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-09-14 23:31:57,702 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-09-14 23:31:57,712 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Renato\Desktop\projeto com spring booot\projetocomspringbootejava\src\test\resources

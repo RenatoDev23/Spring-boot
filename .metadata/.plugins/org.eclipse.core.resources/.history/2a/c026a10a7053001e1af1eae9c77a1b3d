@@ -1,0 +1,25 @@
+package com.projetocomspringbootejava.projetocomspringbootejava;
+
+import org.springframework.boot.CommandLineRunner;
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+import com.projetocomspringbootejava.projetocomspringbootejava.entities.Category;
+
+@SpringBootApplication
+public class ProjetocomspringbootejavaApplication  implements CommandLineRunner{
+
+	public static void main(String[] args) {
+		SpringApplication.run(ProjetocomspringbootejavaApplication.class, args);
+	}
+
+	@Override
+	public void run(String... args) throws Exception {
+		
+		Category cat1 = new Category(1L, "Electronics");
+		Category cat2 = new Category(2L, "Books");
+		
+		
+	}
+
+}
