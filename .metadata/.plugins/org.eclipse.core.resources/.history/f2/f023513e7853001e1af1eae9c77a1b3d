@@ -1,0 +1,11 @@
+package com.projetocomspringbootejava.projetocomspringbootejava.repositories;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import com.projetocomspringbootejava.projetocomspringbootejava.entities.Product;
+
+@repository
+public interface ProductRepository extends JpaRepository<Product, Long> {
+
+
+}
